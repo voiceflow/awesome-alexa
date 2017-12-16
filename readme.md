@@ -149,7 +149,7 @@
 ### Influencers/People
 * **Cathy Pearl** - VP of User Experience at Sensely, Author of the O'Reilly book Designing Voice User Interfaces [Twitter](https://twitter.com/cpearl42) [Linkedin](https://www.linkedin.com/in/cpearl/)
 * **Paul Cutsinger** - Working with developers to design and develop voice based user experiences. Currently: Alexa, Alexadevs. Previously: Appstore, Disney. [Twitter](https://twitter.com/PaulCutsinger)
-* **Dave IsbitskiVerified account** - Works for Amazon's Alexa, evangelist. Host of Alexa Dev Chat Podcast. [Twitter](https://twitter.com/thedavedev)
+* **Dave Isbitski** - Works for Amazon's Alexa, evangelist. Host of Alexa Dev Chat Podcast. [Twitter](https://twitter.com/thedavedev)
 * **John Kelvie** - Building stuff for Alexa, Google Home and Bots at Bespoken [Twitter](https://twitter.com/jpkbst)
 
 ### License
