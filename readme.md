@@ -8,9 +8,14 @@
 - [Video Tutorials](#video-tutorials)
 - [Directories (lists)](#directories-lists)
 - [Skill development](#skill-development)
-  - [SDKs/Frameworks/Libraries](#sdksframeworkslibraries)
-  - [Boilerplates/templates](#boilerplatestemplates)
-  - [Tutorials/guides](#tutorialsguides)
+	- [SDKs/Frameworks/Libraries](#sdksframeworkslibraries)
+    - [Boilerplates/templates](#boilerplatestemplates)
+    - [Tutorials/guides](#tutorialsguides)
+- [Skill building platforms](#skill-buidling-platforms)
+- [Tools](#tools)
+	- [Prototyping](#prototyping)
+	- [Analytics](#analytics)
+- [Agencies](#agencies)
 
 ## Contents
 
@@ -62,6 +67,62 @@
 
 #### Tutorials/Guides
 
+### Skill building platforms
+* [Storyline](https://thestoryline.io) - Create and publish Amazon Alexa skills without coding with visual interface and pre-build templates.
+* [Smartly.AI](https://smartly.ai) - All in one platform for your voice and chatbot projects.
+* [PullString](https://www.pullstring.com) - Design, prototype, and publish voice apps for Amazon Alexa, Google Assistant and IoT devices.
+* [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel.
+* [kitt.ai](https://kitt.ai) - KITT.AI offers Conversational Understanding as a Service with ChatFlow and customizable wake word detection on embedded devices.
+
+### Tools
+
+#### Prototyping
+* [Sayspring](https://www.sayspring.com) - Create interactive voice prototypes for Amazon Alexa and Google Home.
+* [BotSociety](https://botsociety.io) - Preview & prototype your voice interfaces.
+
+#### Analytics
+* [Dashbot](https://www.dashbot.io/alexa) - Actionable Analytics for Amazon Alexa
+* [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
+* [VoiceLabs.co](http://voicelabs.co) - VoiceLabs is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
+* [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
+
+### Agencies
+* [Rain](https://rain.agency/voice/) - RAIN is a digital consultancy and pioneer in building voice experiences that drive ROI for leading brands.
+* [XAPPmedia, Inc.](https://xappmedia.com/develop-custom-alexa-skills/) - XAPPmedia is a pioneer in interactive voice experiences. We design, develop, host and manage custom Alexa skills for leading brands and publishers.
+* [Witlingo, Inc.](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
+* [Volara](https://volara.io) - Volara provides custom voice-based solutions to the hospitality industry, ensuring hotel guests’ engagement is personal and remarkable.
+* [VoiceXP](https://www.voicexp.com) - Trusted by Global Brands as the only one-stop-shop offering the complete Voice Experience™, VoiceXP is the highest rated managed SaaS provider for enterprise-grade internal and external Skills.
+* [Vectorform](https://www.vectorform.com) - Vectorform is an invention company that creates digital products and experiences for the world’s leading brands enabling them to develop and drive innovation.
+* [VaynerMedia](https://vaynermedia.com) - VaynerMedia is a digital agency that helps brands storytell across the platforms that matter most in the now, driving real business results.
+* [Unified Computer Intelligence Corporation](http://www.ucic.io) - UCIC helps companies build voice interaction into their hardware products, including developing prototypes, POCs, and unique experiences using voice.
+* [UI Centric](https://www.uicentric.com) - UI Centric is a leading software agency specializing in the Media & Entertainment and Sports industries with offices in New York and London.
+* [TVGla](http://www.tvgla.com/voice/) - TVGla is a full service, digital-first agency connecting people and brands moving at the speed of culture.
+* [TribalScale](http://www.tribalscale.com/alexa) - TribalScale is a digital firm specialized in the design and development of world-class digital products, helping to usher businesses into the connected age.
+* [SpokenLayer](http://www.spokenlayer.com) - We create, distribute, and monetize branded spoken experiences by leveraging your existing editorial content and our network of real human voices.
+* [Solstice](https://www.solstice.com/alexa) - Solstice is an innovation and emerging technology firm that helps Fortune 500 companies seize new opportunities through world-changing digital solutions.
+* [Slalom](https://www.slalom.com/work/partners/amazon-web-services) - Slalom helps companies solve business problems and build for the future, with solutions spanning business advisory, customer experience, technology, and analytics.
+* [SapientRazorfish](https://www.sapientrazorfish.com) - SapientRazorfish is a new breed of transformation partner designed to help companies reimagine their business through radical customer-centricity.
+* [Rocket Insights](http://www.rocketinsights.com) - Rocket Insights is a small team of senior Voice/AI experts, building the product-focused agency we always wanted to hire.
+* [Quantum XPR](https://www.quantumxpr.com/) - Quantum XPR uses future-tested tools and insights to address business challenges of today.
+* [POSSIBLE Mobile](https://possiblemobile.com/alexa-voice-service/) - POSSIBLE Mobile is a digital agency that specializes in designing and developing Alexa skills as well as native handset, tablet and set top box applications.
+* [Orbita Inc.](http://www.orbita.ai/alexa) - Orbita powers adaptive, conversational voice, chat, and SMS solutions for patient engagement, education, and care coordination in the healthcare market.
+* [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
+* [ONSEI GmbH](https://www.onsei.de/) - ONSEI is a conversational interface agency and SaaS company that offers solutions for voice design and development, along with other ONSEI platform services.
+* [Newscycle Solutions](http://newscycle.com/mobile) - Newscycle develops and delivers mobile, editorial, advertising and circulation software and technologies that empower the global news media industry.
+* [Mobiquity](http://mobiquityinc.com/alexa) - Mobiquity is a digital engagement provider that designs and delivers Alexa skills, as well as data-driven, connected innovation, for Fortune 500 companies.
+* [Mindshare](http://www.mindshareintheloop.com/) - Mindshare is a global media agency network that drives adaptive marketing in a world where everything begins and ends in media.
+* [Matchbox](http://matchboxmobile.com/) - Matchbox is an experienced voice interaction design and development studio, with several published Alexa skills and tools on developing for Alexa.
+* [Isobar](http://www.isobar.com/) - Isobar is a global full-service digital agency driven to solve complex client challenges with ideas that transform businesses and brands.
+* [ISL (iStrategyLabs)](https://isl.co/) - ISL invents digital & physical experiences for the world’s biggest brands. Our designers, developers, marketers and makers build everything from apps, to connected devices, to wildly creative campaigns that reach audiences globally.
+* [IPG Media Lab](https://www.ipglab.com/) - The IPG Media Lab is a creative technology agency that builds conversational experiences for leading brands.
+* [Iconmobile](http://www.iconmobile.com/) - Iconmobile creates customer experiences for connected devices supported by many different open and proprietary platforms.
+* [Giant Spoon](http://www.giantspoon.com/) - Giant Spoon is an NY and LA-based innovation-driven marketing agency that can help craft the strategy for your skill, produce it, and promote it.
+* [FreshDigitalGroup](http://www.freshdigitalgroup.com/) - FreshDigitalGroup is a mobile solutions provider using innovative and emerging technology to create best-in-class creative design and execution on all devices.
+* [Connected Lab](http://connectedlab.com/) - Connected Lab is a digital product innovation firm specializing in the design and development of better conversational interfaces through rapid prototyping and validation.
+* [Cognizant Technology Solutions](https://www.cognizant.com/) - Cognizant’s Conversational AI practice helps businesses envision, create and evolve fully integrated conversational solutions - including text and voice-based cognitive agents. Accelerating the shift to digital with Cognizant's offerings makes the path clear and the process systematic.
+* [Blink](https://blinkux.com/alexa) - Blink is a leading user experience consulting firm specializing in the research, design, and development of digital customer experiences.
+* [AKQA](http://www.akqa.com/work/jamie-oliver/amazon-alexa-skill/) - AKQA uses the imaginative application of art and science to create beautiful ideas, products, and services.
+* [Accenture](http://www.accenture.com/) - Accenture is a global professional services company partnering with the Fortune 500 driving innovation to help deliver transformational outcomes for a demanding new digital world.
 
 ### License
 
