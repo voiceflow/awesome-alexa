@@ -5,6 +5,7 @@
 ## Table of contents
 - [Podcasts and episodes](#podcasts-and-episodes)
 - [Popular examples of skills](#popular-examples-of-skills)
+- [Video Tutorials](#video-tutorials)
 
 ## Contents
 
@@ -18,6 +19,9 @@
 * [Jeopardy](https://www.amazon.com/gp/product/B019G0M2WS) - Now you can play those Jeopardy clues on Alexa! With a single voice command, test your knowledge with new clues every weekday. Step up to the podium and play the same categories you saw on the latest episode!
 * [Deal or No Deal Game](https://www.amazon.com/gp/product/B0721X9HBF) - Can you find the case containing $1,000,000 or trick the Banker into giving you more money than your case is worth?
 * [Ambient Sounds: Rain Sounds](https://www.amazon.com/gp/product/B01LXQXW3G) - Rain Sounds is an ambient relaxing sleep sounds loop to help you block out unwanted noises, encourage relaxation, reduce stress, or help you fall asleep!
+
+### Video Tutorials
+* [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) -Build smooth voice-activated apps for Echo and other Alexa-aware devices. 
 
 ### License
 
