@@ -16,6 +16,7 @@
 	- [Prototyping](#prototyping)
 	- [Analytics](#analytics)
 - [Agencies](#agencies)
+- [Books](#books)
 
 ## Contents
 
@@ -64,6 +65,19 @@
 * [Bespoken CLI (Develop, Debug, and Test Live on Your Laptop)](https://bespoken.io/alexa-skills/) - Combine the Alexa Skills Kit (ASK) with the Bespoken command line (CLI) for 10X software development.
 
 #### Boilerplates/templates
+* [skill-sample-nodejs-fact](https://github.com/alexa/skill-sample-nodejs-fact) - This Alexa sample skill is a template for a basic fact skill. Provided a list of interesting facts about a topic, Alexa will select a fact at random and tell it to the user when the skill is invoked.
+* [skill-sample-nodejs-petmatch](https://github.com/alexa/skill-sample-nodejs-petmatch) - This Alexa Skill Kit sample shows how to build a skill using Dialog Management and Entity Resolution.
+* [skill-sample-nodejs-team-lookup](https://github.com/alexa/skill-sample-nodejs-team-lookup) - An Alexa Skill Sample showing how to build a team lookup skill.
+* [skill-sample-nodejs-city-guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - An Alexa Skill Sample showing how to build a skill featuring a single city's landmarks and news.
+* [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills.
+* [skill-sample-nodejs-highlowgame](https://github.com/alexa/skill-sample-nodejs-highlowgame) - This Alexa sample skill is a template for a basic high-low game skill. Guess a number, and Alexa will tell you whether the number she has in mind is higher or lower.
+* [skill-sample-nodejs-howto](https://github.com/alexa/skill-sample-nodejs-howto) - This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a parameter-based skill using a template called ‘Minecraft Helper’. Ask how to craft an item in the game Minecraft, and this skill will give you instructions.
+* [skill-sample-nodejs-feed](https://github.com/alexa/skill-sample-nodejs-feed) - An Alexa Skill Template to help create skills that read RSS/Atom feeds.
+* [skill-sample-nodejs-decision-tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - An Alexa Skill Sample for building a skill that can take a user through a decision tree, like "What should I eat for breakfast?".
+* [skill-sample-nodejs-calendar-reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - An Alexa Skill Sample showing how to import calendar data from an .ICS file.
+* [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - This Alexa sample skill is a template for a trivia style game with score keeping. Alexa will ask you a multiple choice questions and seek your response. Correct and Incorrect answers to questions are recorded.
+* [skill-sample-nodejs-quiz-game](https://github.com/alexa/skill-sample-nodejs-quiz-game) - An Alexa Skill Sample showing how to build a quiz game skill.
+* [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - This project demonstrates how to build an Alexa private skill that integrates with your Salesforce data, utilizing account linking and a personal voice code.
 
 #### Tutorials/Guides
 
@@ -123,6 +137,9 @@
 * [Blink](https://blinkux.com/alexa) - Blink is a leading user experience consulting firm specializing in the research, design, and development of digital customer experiences.
 * [AKQA](http://www.akqa.com/work/jamie-oliver/amazon-alexa-skill/) - AKQA uses the imaginative application of art and science to create beautiful ideas, products, and services.
 * [Accenture](http://www.accenture.com/) - Accenture is a global professional services company partnering with the Fortune 500 driving innovation to help deliver transformational outcomes for a demanding new digital world.
+
+### Books
+* [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414)
 
 ### License
 
