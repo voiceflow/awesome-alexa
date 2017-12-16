@@ -6,6 +6,7 @@
 - [Podcasts and episodes](#podcasts-and-episodes)
 - [Popular examples of skills](#popular-examples-of-skills)
 - [Video Tutorials](#video-tutorials)
+- [Directories (lists)](#directories-lists)
 
 ## Contents
 
@@ -22,6 +23,11 @@
 
 ### Video Tutorials
 * [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) -Build smooth voice-activated apps for Echo and other Alexa-aware devices. 
+
+### Directories (lists)
+* [Alexa Skills Store (USA)](https://www.amazon.com/alexa-skills/)
+* [Alexa Skills Store (UK)](https://www.amazon.co.uk/alexa-skills/)
+* [Alexa Skills Store (Germany)](https://www.amazon.de/alexa-skills/)
 
 ### License
 
