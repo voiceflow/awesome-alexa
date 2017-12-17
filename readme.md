@@ -23,6 +23,7 @@
 ## Contents
 
 ### Podcasts and episodes
+* [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - Dave Isbitski discusses various aspects of Alexa (Alexa Skills Kit and Alexa Voice Service), natural language understanding, voice recognition, and how developers like you are building innovative solutions. The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
 * [Voice Dev Rocks](https://voicedev.rocks/) - Voice Dev Rocks is a weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
 
 ### Popular examples of skills
