@@ -192,6 +192,9 @@
 
 ### Events
 * [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
+* [Amazon Alexa, Google Home & other Voice Interfaces - Berlin](https://www.meetup.com/Berlin-Voice-Interfaces/)
+* [Amazon Alexa, Google Home & other Voice Interfaces - Munich](https://www.meetup.com/Munich-Voice-Interfaces/)
+* [Sydney Amazon Alexa Meetup](https://www.meetup.com/Sydney-Amazon-Alexa-Meetup/)
 
 ### Communities/chats
 * [Unofficial Alexa Slack](http://www.alexaslack.com) -  A group of chat channels focusing on Amazon Alexa enabled hardware and software. Developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology are welcome.
