@@ -5,6 +5,7 @@
 ## Table of contents
 - [Podcasts and episodes](#podcasts-and-episodes)
 - [Newsletters](#newsletters)
+- [News/Sources](#news-sources)
 - [Popular examples of skills](#popular-examples-of-skills)
 - [Video Tutorials](#video-tutorials)
 - [Directories (lists)](#directories-lists)
@@ -32,6 +33,12 @@
 ### Newsletters
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox.
 * [Alexa Developer Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Latest Amazon Alexa news and IoT and voice industry trends.
+* [Love My Echo newsletter](http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3)
+* [VoiceBot Newsletter](https://www.voicebot.ai/subscribe/)
+
+### News/Sources
+* [VoiceBot](https://www.voicebot.ai) - One of the main news sources about voice industry and Amazon Alexa.
+* [Love My Echo](https://lovemyecho.com) - Love My Echo is the first consumer-oriented site dedicated to the Amazon Alexa devices: what they are, what they do, and how to get the most from them. The site brings readers Alexa tips, tricks, how-tos, news and opinion pieces.
 
 ### Popular examples of skills
 * [Song Quiz](https://www.amazon.com/gp/product/B06XWGR7XZ) - Listen to thousands of music clips by your favorite artists from the past 60 years! Guess the correct song title and artist. Challenge your friends and family in live competitions or compete against music fans across the country!
