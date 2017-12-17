@@ -4,6 +4,7 @@
 
 ## Table of contents
 - [Podcasts and episodes](#podcasts-and-episodes)
+- [Newsletters](#newsletters)
 - [Popular examples of skills](#popular-examples-of-skills)
 - [Video Tutorials](#video-tutorials)
 - [Directories (lists)](#directories-lists)
@@ -27,6 +28,10 @@
 ### Podcasts and episodes
 * [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - Dave Isbitski discusses various aspects of Alexa (Alexa Skills Kit and Alexa Voice Service), natural language understanding, voice recognition, and how developers like you are building innovative solutions. The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
 * [Voice Dev Rocks](https://voicedev.rocks/) - Voice Dev Rocks is a weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
+
+### Newsletters
+* [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox.
+* [Alexa Developer Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Latest Amazon Alexa news and IoT and voice industry trends.
 
 ### Popular examples of skills
 * [Song Quiz](https://www.amazon.com/gp/product/B06XWGR7XZ) - Listen to thousands of music clips by your favorite artists from the past 60 years! Guess the correct song title and artist. Challenge your friends and family in live competitions or compete against music fans across the country!
