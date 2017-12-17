@@ -83,6 +83,9 @@
 * [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - This project demonstrates how to build an Alexa private skill that integrates with your Salesforce data, utilizing account linking and a personal voice code.
 
 #### Tutorials/Guides
+* [Alexa Cookbook](https://github.com/alexa/alexa-cookbook) - A series of sample code projects to be used for educational purposes during Alexa hackathons and workshops, and as a reference for tutorials and blog posts.
+* [How to Create Your Own Flash Briefing Skill for Amazon Alexa Without Coding?](https://medium.com/storyline-blog/how-to-create-your-own-flash-briefing-skill-for-amazon-alexa-without-coding-fdf3376f0e69)
+* [How to Publish Your Storyline Alexa Skill to all the English-speaking Regions?](https://medium.com/storyline-blog/how-to-publish-your-storyline-alexa-skill-to-all-the-english-speaking-regions-aa758c0f89d2)
 
 ### Skill building platforms
 * [Storyline](https://thestoryline.io) - Create and publish Amazon Alexa skills without coding with visual interface and pre-build templates.
