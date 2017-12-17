@@ -19,6 +19,8 @@
 - [Books](#books)
 - [Fundraising](#fundraising)
 - [Influencers/People](#influencerspeople)
+- [Events](#events)
+- [Communities/Chats](#communities-chats)
 
 ## Contents
 
@@ -182,6 +184,13 @@
 * **Rick Wargo** -  Applying his professional expertise in software development, he has created an environment to craft Alexa skills where BDD drives the development methodology. With a lifelong practice of giving back, Rick has released those tools in the form of a skill template and a full-featured Alexa skill to the open source community. Rick is an active participant in other open-source Alexa projects, contributing to Matt Kruse’s alexa-app and Mike Reinstein’s alexa-utterances. [Twitter](https://twitter.com/rickwargo) [Linkedin](https://www.linkedin.com/in/rickwargo) [Github](https://github.com/rickwargo)
 * **John Wheeler** - John Wheeler is the creator of Flask-Ask and the Alexa Skills Kit development framework for Python that enables rapid skill development. He also created AlexaTutorial.com, a resource for leveling-up quickly with Flask-Ask and the Alexa Skills Kit. [Twitter](https://twitter.com/_johnwheeler) [Github](https://github.com/johnwheeler) [YouTube](https://www.youtube.com/channel/UCZerPihWXzr6jV-rYK7KmIg)
 * **Austin Wilson** - Austin Wilson taught Alexa how to drive a motorized car, winning a second-place award in Hackster’s Internet of Voice Challenge (IoV) with Raspberry Pi. Then he taught Alexa how to communicate with ships in the video game Elite Dangerous, winning first place in the Amazon Alexa API Mashup Contest. [Linkedin](https://www.linkedin.com/in/austin-w-7a836812a) [Twitter](https://twitter.com/AustinMathuw) [Facebook](https://www.facebook.com/austin.wilson.73307)
+
+### Events
+* [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
+
+### Communities/chats
+* [Unofficial Alexa Slack](http://www.alexaslack.com) -  A group of chat channels focusing on Amazon Alexa enabled hardware and software. Developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology are welcome.
+* [Storyline community](https://www.facebook.com/groups/storylinecommunity/) - Facebook community of Alexa Developers built around the Storyline, tool for creating voice apps without coding.
 
 ### License
 
