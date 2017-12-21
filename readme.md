@@ -124,11 +124,11 @@
 * [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
 
 ### Agencies
-* [Rain](https://rain.agency/voice/) - RAIN is a digital consultancy and pioneer in building voice experiences that drive ROI for leading brands.
 * [XAPPmedia, Inc.](https://xappmedia.com/develop-custom-alexa-skills/) - XAPPmedia is a pioneer in interactive voice experiences. We design, develop, host and manage custom Alexa skills for leading brands and publishers.
 * [Witlingo, Inc.](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
 * [Volara](https://volara.io) - Volara provides custom voice-based solutions to the hospitality industry, ensuring hotel guests’ engagement is personal and remarkable.
 * [VoiceXP](https://www.voicexp.com) - Trusted by Global Brands as the only one-stop-shop offering the complete Voice Experience™, VoiceXP is the highest rated managed SaaS provider for enterprise-grade internal and external Skills.
+* [Vidanov Digital](https://vidanov.com/genese) - Vidanov Digital is a german based innovations consulting agency with VUI expertise for Alexa.  
 * [Vectorform](https://www.vectorform.com) - Vectorform is an invention company that creates digital products and experiences for the world’s leading brands enabling them to develop and drive innovation.
 * [VaynerMedia](https://vaynermedia.com) - VaynerMedia is a digital agency that helps brands storytell across the platforms that matter most in the now, driving real business results.
 * [Unified Computer Intelligence Corporation](http://www.ucic.io) - UCIC helps companies build voice interaction into their hardware products, including developing prototypes, POCs, and unique experiences using voice.
@@ -140,6 +140,7 @@
 * [Slalom](https://www.slalom.com/work/partners/amazon-web-services) - Slalom helps companies solve business problems and build for the future, with solutions spanning business advisory, customer experience, technology, and analytics.
 * [SapientRazorfish](https://www.sapientrazorfish.com) - SapientRazorfish is a new breed of transformation partner designed to help companies reimagine their business through radical customer-centricity.
 * [Rocket Insights](http://www.rocketinsights.com) - Rocket Insights is a small team of senior Voice/AI experts, building the product-focused agency we always wanted to hire.
+* [Rain](https://rain.agency/voice/) - RAIN is a digital consultancy and pioneer in building voice experiences that drive ROI for leading brands.
 * [Quantum XPR](https://www.quantumxpr.com/) - Quantum XPR uses future-tested tools and insights to address business challenges of today.
 * [POSSIBLE Mobile](https://possiblemobile.com/alexa-voice-service/) - POSSIBLE Mobile is a digital agency that specializes in designing and developing Alexa skills as well as native handset, tablet and set top box applications.
 * [Orbita Inc.](http://www.orbita.ai/alexa) - Orbita powers adaptive, conversational voice, chat, and SMS solutions for patient engagement, education, and care coordination in the healthcare market.
