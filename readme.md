@@ -55,6 +55,7 @@
 * [How to create an Alexa skill without coding?](https://www.youtube.com/watch?v=2nXO-lj72Gc)
 * [How to create your own Flash Briefing skill for Amazon Alexa?](https://www.youtube.com/watch?v=kfSP1Munn1M)
 * [How to Publish Your Alexa Skill to all the English-speaking Regions?](https://www.youtube.com/watch?v=_Ph6K_-1_mw)
+* [Dabble Lab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos) - Weekly videos on building custom skills for Amazon Alexa and related topics.
 * [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) - Build smooth voice-activated apps for Echo and other Alexa-aware devices.
 
 ### Directories (lists)
