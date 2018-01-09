@@ -166,6 +166,8 @@
 
 ### Books
 * [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414)
+* [How To Program -- Amazon Echo: Design, Development and Testing Alexa Skills](https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26)
+* [Developing Amazon Alexa Games: A Game Designer’s Handbook](https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH)
 
 ### Fundraising
 * [Alexa Fund](https://developer.amazon.com/alexa-fund) - The Alexa Fund provides up to $100 million in venture capital funding to fuel voice technology innovation.
