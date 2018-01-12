@@ -28,16 +28,15 @@
 
 ### Podcasts and episodes
 * [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - Dave Isbitski discusses various aspects of Alexa (Alexa Skills Kit and Alexa Voice Service), natural language understanding, voice recognition, and how developers like you are building innovative solutions. The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
-* [Voice Dev Rocks](https://voicedev.rocks/) - Voice Dev Rocks is a weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
 * [VoiceBot Podcasts](https://www.voicebot.ai/voicebot-podcasts/) VoiceBot goal is to gather in one place the most important news and commentary about all things voice web.
 * [VoiceFirst.FM](https://www.voicefirst.fm) VoiceFirst.FM is a podcast network devoted to voice-first technology.
-
 
 ### Newsletters
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox.
 * [Alexa Developer Newsletter](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Latest Amazon Alexa news and IoT and voice industry trends.
 * [Love My Echo newsletter](http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3)
 * [VoiceBot Newsletter](https://www.voicebot.ai/subscribe/)
+* [Voice Dev Rocks](https://voicedev.rocks/) - Voice Dev Rocks is a weekly curated publication full of interesting, relevant links, brought to you by the Amazon Alexa, Google Assistant and Microsoft Cortana Slack communities.
 
 ### News/Sources
 * [VoiceBot](https://www.voicebot.ai) - One of the main news sources about voice industry and Amazon Alexa.
@@ -80,6 +79,7 @@
 * [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills
 * [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library
 * [alexa-app](https://github.com/develpr/alexa-app) - Set of classes to make creating Amazon Alexa Skills Kit (ASK) applications easier with Laravel and Lumen
+* [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - Alexa Emulator for Unit-Testing
 
 #### CLI
 * [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) - The ASK Command Line Interface (ASK CLI) is a tool for you to manage your Alexa skills and related AWS Lambda functions. With ASK CLI, you have access to the Skill Management API, which allows you to manage Alexa skills programmatically from the command line.
@@ -124,6 +124,9 @@
 * [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
 * [VoiceLabs.co](http://voicelabs.co) - VoiceLabs is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
 * [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
+
+#### Monitoring
+* [Bespoken](http://bespoken.io) - Bespoken provides monitoring and testing tools for Alexa skills (and Google Actions). Our platform keeps track to make sure your skill is working correctly, and alerts you when it is not.
 
 ### Agencies
 * [XAPPmedia, Inc.](https://xappmedia.com/develop-custom-alexa-skills/) - XAPPmedia is a pioneer in interactive voice experiences. We design, develop, host and manage custom Alexa skills for leading brands and publishers.
