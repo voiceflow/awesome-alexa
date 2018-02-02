@@ -116,6 +116,7 @@
 ### Tools
 
 #### Prototyping
+* [VoiceX] (https://anilkk.github.io/voicex/) - Prototyping sample dialogs for voice user interfaces.
 * [Sayspring](https://www.sayspring.com) - Create interactive voice prototypes for Amazon Alexa and Google Home.
 * [BotSociety](https://botsociety.io) - Preview & prototype your voice interfaces.
 
