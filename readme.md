@@ -17,6 +17,7 @@
 - [Tools](#tools)
 	- [Prototyping](#prototyping)
 	- [Analytics](#analytics)
+	- [Utilities](#utilities)
 - [Agencies](#agencies)
 - [Books](#books)
 - [Fundraising](#fundraising)
@@ -125,6 +126,11 @@
 * [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
 * [VoiceLabs.co](http://voicelabs.co) - VoiceLabs is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
 * [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
+#### Utilities
+* [Audio converter](https://www.jovo.tech/audio-converter) - Convert MP3 files for using in Amazon Alexa Skills
+* [Tophonetics](https://tophonetics.com) - A free International Phonetic Alphabet (IPA) phonetics generator for your SSML in Amazon Alexa Skills
+
+
 
 #### Monitoring
 * [Bespoken](http://bespoken.io) - Bespoken provides monitoring and testing tools for Alexa skills (and Google Actions). Our platform keeps track to make sure your skill is working correctly, and alerts you when it is not.
