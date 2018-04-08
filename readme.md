@@ -124,7 +124,7 @@
 #### Analytics
 * [Dashbot](https://www.dashbot.io/alexa) - Actionable Analytics for Amazon Alexa
 * [Opearlo](http://www.opearlo.com) - Opearlo is a voice design agency that offers Alexa skill design and development, along with Opearlo Analytics, a platform for insights into Alexa skill usage.
-* [VoiceLabs.co](http://voicelabs.co) - VoiceLabs is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
+* [Alpine.ai](http://alpine.ai) - Alpine is a pioneer in voice experience analytics, and is the most widely used product analytics service for Alexa skills.
 * [WitLingo](http://www.witlingo.com) - Witlingo is a SaaS product company that enables skills developers to access analytics, diagnostics, and discovery tools to help them improve their skills.
 
 #### Utilities
