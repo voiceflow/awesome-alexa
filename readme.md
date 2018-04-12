@@ -57,11 +57,13 @@
 * [How to Publish Your Alexa Skill to all the English-speaking Regions?](https://www.youtube.com/watch?v=_Ph6K_-1_mw)
 * [Dabble Lab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos) - Weekly videos on building custom skills for Amazon Alexa and related topics.
 * [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) - Build smooth voice-activated apps for Echo and other Alexa-aware devices.
+* [Build for Echo Show](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - Learn to develop multimodal skills for Echo Show.
 
 ### Directories (lists)
 * [Alexa Skills Store (USA)](https://www.amazon.com/alexa-skills/)
 * [Alexa Skills Store (UK)](https://www.amazon.co.uk/alexa-skills/)
 * [Alexa Skills Store (Germany)](https://www.amazon.de/alexa-skills/)
+* [Alexa Skills Store (India)](https://amazon.in/skills)
 
 ### Skill development
 
@@ -76,6 +78,8 @@
 * [Alexa Skills Kit for Python](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python.
 * [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda.
 * [alexa-skills-dotnet](https://github.com/timheuer/alexa-skills-dotnet) - An Amazon Alexa Skills SDK for .NET
+* [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java
+* [Ruby Alexa Skills Kit SDK (Lambda)](https://github.com/sjmog/ralyxa) - An Amazon Alexa Skills SDK for Ruby
 * [vsms-skeleton](https://github.com/internetofvoice/vsms-skeleton) - Voice Skill Management System (Skeleton)
 * [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills
 * [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library
@@ -120,6 +124,7 @@
 * [VoiceX](https://anilkk.github.io/voicex/) - Prototyping sample dialogs for voice user interfaces.
 * [Sayspring](https://www.sayspring.com) - Create interactive voice prototypes for Amazon Alexa and Google Home.
 * [BotSociety](https://botsociety.io) - Preview & prototype your voice interfaces.
+* [Skillinator](https://skillinator.io/) - Prototype Alexa Skills for Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)
 
 #### Analytics
 * [Dashbot](https://www.dashbot.io/alexa) - Actionable Analytics for Amazon Alexa
