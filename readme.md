@@ -23,7 +23,7 @@
 - [Fundraising](#fundraising)
 - [Influencers/People](#influencerspeople)
 - [Events](#events)
-- [Communities/Chats](#communities-chats)
+- [Communities/Chats](#communitieschats)
 
 ## Contents
 
