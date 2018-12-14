@@ -184,6 +184,7 @@
 * [How To Program -- Amazon Echo: Design, Development and Testing Alexa Skills](https://www.amazon.com/How-Program-Amazon-Echo-Development-ebook/dp/B011J6AP26)
 * [Developing Amazon Alexa Games: A Game Designer’s Handbook](https://www.amazon.com/Developing-Amazon-Alexa-Games-Designers-ebook/dp/B0739N4MJH)
 * [Voice-First Development](https://www.manning.com/books/voice-first-development)
+* [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant)
 
 ### Fundraising
 * [Alexa Fund](https://developer.amazon.com/alexa-fund) - The Alexa Fund provides up to $100 million in venture capital funding to fuel voice technology innovation.
