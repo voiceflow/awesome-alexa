@@ -1,0 +1,105 @@
+5,564 code results
+@HackathonTeamRed2018
+HackathonTeamRed2018/ProsChallenge2018 – README.md
+Showing the top match
+Last indexed on Nov 4, 2018
+Markdown
+# ProsChallenge2018
+## by Oscar Tovar, Fabian Ornelas, Michael Panagos
+
+A nodejs flight fare webservice that takes in an origin location and a destination and two dates, and returns the most affordable route to take to arrive to the selected destination via flight. We used express to generate a web server with nodejs that create routes and sockets needed for the website. The webservice utilizes API's such as Kiwi for all flight information, Javascript Google Maps API for map manipulation and for displaying the route given by Kiwi with connections (stops needed). We used Jovo to create a host for voice recognition devices that uses the Nodejs program to retrieve and return the information to the device. Softwares that Jovo interacts consist of Actions on Google, Alexa devices, and Facebook chatbot.
+@FelixOnline
+FelixOnline/v2 – 2016-3-11-the-top-three-oscar-winners-who-arent-leo-dicaprio.md
+Showing the top two matches
+Last indexed on Jun 30, 2018
+Markdown
+---
+title: >
+  The top three Oscar winners who aren’t Leo DiCaprio
+subtitle: >
+  Our regular film column
+aliases:
+ - /film/6038/the-top-three-oscar-winners-who-arent-leo-dicaprio
+comments:
+ - value: >
+     Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword should appear in your first paragraph and in the last sentence of the page. You should have relevant usage of Bold and italics of your keyword.There should be one internal link to a page on your blog and you should have one image with an alt tag that has y
+@egyptian-geeks
+egyptian-geeks/EgyptianGeeksArchive – summary_page_689.json
+Showing the top match
+Last indexed on Jun 28, 2018
+JSON
+{"posts":[{"id":"172338516139198_962958357077206","from":{"name":"Abdo Ibrahim","id":"1819256275066242"},"message":"Any help will be really appreciated.","caption":"stackoverflow.com","description":"fI started to learn how to make an augmented reality project a couple of days ago on android using libgdx and integrating it with android device camera from this tutorial :","created_time":"2015-06-24T04:09:06+10:00","total_likes":0,"total_comments":3},{"id":"172338516139198_963262880380087","from":{"name":"Muhammad Yousef","id":"1471099199601456"},"message":"Hey guys, i wanna ask about composer .. What is his function ?\nWhy i need it ? \nAnd before that i wanna know what is the meanning of dependency management in php .. ?","caption":"www.getcomposer.org","description":"Dependency Management for PHP","created_time":"2015-06-24T21:17:26+10:00","total_likes":1,"total_comments":16},{"id":"172338516139198_957691010937274","from":{"name":"AbdAllah Khashaba","id":"850869651733894"},"message":"When a geek geeks :)\nhttps://www.youtube.com/watch?v=bYcF_xX2DE8","caption":null,"description":null,"created_time":"2015-06-13T04:14:15+10:00","total_likes":18,"total_comments":3},{"id":"172338516139198_963627703676938","from":{"name":"Ahmed Syam","id":"10212751928298930"},"message":"مساعدة في أندرويد","caption":null,"description":null,"created_time":"2015-06-25T10:08:09+10:00","total_likes":1,"total_comments":11},{"id":"172338516139198_963611720345203","from":{"name":"Mohammad Tayseer","id":"10154965677956341"},"message":"Why do a grocery list manually, when you can automate it?\n\nThis system will scan the barcode of items you throw into the garbage, then add it to a trello board for you.","caption":"youtube.com","description":"See Quirky: http://www.quirky.com/invent/751172/action/vote/query/sort=ending_soon&categories=all And also Github: https://github.com/danslimmon/oscar","created_time":"2015-06-25T09:12:41+10:00","total_likes":7,"total_comments":4},{"id":"172338516139198_963723157000726","from":{"name":"Mohamed Alaa El Din","id":"1252478278163674"},"message":null,"caption":"venturebeat.com","description":"Google hasn't announced it yet, but the company earlier this year started offering free beta access to Cloud Source Repositories, a new service for storing and editing code on the ever-expanding Google Cloud Platform.","created_time":"2015-06-25T16:10:49+10:00","total_likes":21,"total_comments":5},{"id":"172338516139198_963924906980551","from":{"name":"Moustafa Alzantot","id":"10154890030331815"},"message":"https://fortune.com/2015/06/25/amazon-alexa-fund/","caption":"fortune.com","description":"Amazon is letting developers use the voice recognition tech behind the Echo and has launched a $100 million Alexa fund.","created_time":"2015-06-26T02:52:15+10:00","total_likes":5,"total_comments":0},{"id":"172338516139198_961161240590251","from":{"name":"Eyad Nour","id":"10206400593292210"},"message":"Get ready for a face palm; You can send emails from the Presidential office mail server. Egypt doesn't believe in cyber security. We are just too cool for it.","caption":"testing.sphinux.org","description":"ابعت ايميلات من مكتب رئيس جمهورية مصر العربية بدون تسجيل و فى خطوة واحدة, و أحلى مسا على الأجهزة السيادية","created_time":"2015-06-21T00:30:34+10:00","total_likes":25,"total_comments":18},{"id":"172338516139198_963928710313504","from":{"name":"Emad Elsaid","id":"10154379038212957"},"message":":D A video by GitHub introducing Atom 1.0 released today.","caption":"github.com","description":"GitHub is pleased to announce that version 1.0 of the Atom text editor is now available from atom.io. Read the full behind the scenes story over on the Atom blog. The entire Atom team is attending...","created_time":"2015-06-26T03:02:39+10:00","total_likes":25,"total_comments":8},{"id":"172338516139198_964055393634169","from":{"name":"Mohamed Nabawy","id":"10154232010976502"},"message":null,"caption":"sasapost.com","description":"أن تكون مبرمجًا فهذه واحدة من أفضل الوظائف هذة الأيام بالنسبة إلى دخلك وشعورك بالأمان الوظيفي، ولكنه قد يؤثر بشكل بالغ السوء على سلامة قواك العقلية","created_time":"2015-06-26T09:32:06+10:00","total_likes":25,"total_comments":2}]}
+@mvjkrishnan
+mvjkrishnan/Prototype-To-Demonstrate-The-Advantages-Of-Using-A-Digital-Transcriber-In-A-Business-Environment – README.md
+Showing the top three matches
+Last indexed 12 days ago
+Markdown
+# The solution we propose takes into account the growing popularity of speech recognition and text analysis. Speech recognition is estimated to grow into a $4.9 Billion market. There are multiple applications for this technology. We have used AWS services and Python to build a simple prototype to demonstrate how speech analytics powered smart agents can be deployed on collaboration tools like Slack, to integrate with the native work environment and help transcribe, analyse and interpret human voice that's exchanged in conversations.
+# To demonstrate, we've picked the following 3 different scenes from movies/shows and extracted their audio tracks: 1) The conversation between Leonardo DiCaprio & Matthew McConaughey in 'The Wolf Of Wall Street' 2) An argument between two people in 'Angry Dinner' 3) Matthew McConaughey's Oscar speech on winning the Best Actor
+@invocable
+invocable/awesome-alexa – readme.md
+Showing the top four matches
+Last indexed on Jan 8
+Markdown
+* [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - Dave Isbitski discusses various aspects of Alexa (Alexa Skills Kit and Alexa Voice Service), natural language understanding, voice recognition, and how developers like you are building innovative solutions. The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
+* **Oscar Merry** - Oscar is the Head of Technology at Opearlo - The Voice Design Agency that helps organizations make their products, services, and content accessible through voice using the Amazon Alexa technology. Oscar also runs the London Alexa Devs meetup, which he set up in July 2016 in eager anticipation of the Alexa technology coming to the UK. The meetup has held several events and has grown to a community of more than 200 Alexa developers. [Twitter](https://twitter.com/MerryOscar) [Linkedin](https://www.linkedin.com/in/oscarmerry)
+@killerguy
+killerguy/awesome-list – awesome-aws-alexa.md
+Showing the top five matches
+Last indexed on Oct 15, 2018
+Markdown
+* [Alexa Dev Chat](https://itunes.apple.com/us/podcast/alexa-dev-chat/id1131682069) - Dave Isbitski discusses various aspects of Alexa (Alexa Skills Kit and Alexa Voice Service), natural language understanding, voice recognition, and how developers like you are building innovative solutions. The podcasts include Alexa news, developer tips, and interviews with Alexa developers and Alexa employees.
+* **Oscar Merry** - Oscar is the Head of Technology at Opearlo - The Voice Design Agency that helps organizations make their products, services, and content accessible through voice using the Amazon Alexa technology. Oscar also runs the London Alexa Devs meetup, which he set up in July 2016 in eager anticipation of the Alexa technology coming to the UK. The meetup has held several events and has grown to a community of more than 200 Alexa developers. [Twitter](https://twitter.com/MerryOscar) [Linkedin](https://www.linkedin.com/in/oscarmerry)
+@ThePostAthens
+ThePostAthens/thepostathens.github.io – landing.html
+Showing the top two matches
+Last indexed on Jun 30, 2018
+HTML
+        <meta name="description" content="Everything you need to know before this year's Oscar's ceremony"> <!-- The websum -->
+                
+        <meta name="twitter:title" content="Reaching the Red Carpet" /> <!-- The headline -->
+        <meta name="twitter:description" content="Everything you need to know before this year's Oscar's ceremony" /> <!-- The websum -->
+@vintageplayer
+vintageplayer/SciBase-ACMTemp – citations.txt
+Showing the top match
+Last indexed on Jul 2, 2018
+Text
+Andrew Nealen , Olga Sorkine , Marc Alexa , Daniel Cohen-Or, A sketch-based interface for detail-preserving mesh editing, ACM SIGGRAPH 2007 courses, August 05-09, 2007, San Diego, California
+@vintageplayer
+vintageplayer/SciBase-ACMTemp – citations.txt
+Showing the top two matches
+Last indexed on Jul 2, 2018
+Text
+D. Cummmings , F. Vides , T. Hammond, I don't believe my eyes!: geometric sketch recognition for a computer art tutorial, Proceedings of the International Symposium on Sketch-Based Interfaces and Modeling, June 04-06, 2012, Annecy, France
+G. Noris , D. Sýkora , A. Shamir , S. Coros , B. Whited , M. Simmons , A. Hornung , M. Gross , R. Sumner, Smart Scribbles for Sketch Segmentation, Computer Graphics Forum, v.31 n.8, p.2516-2527, December 2012
+Pengfei Xu , Hongbo Fu , Oscar Kin-Chung Au , Chiew-Lan Tai, Lazy selection: a scribble-based tool for smart shape elements selection, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012
+@ngocthat312
+ngocthat312/nokiaopenup – tags
+Showing the top two matches
+Last indexed on Jul 14, 2018
+Requirements=721
+Neural Networks=726
+Coffee=731
+Good Morning=736
+Alexa=741
+Dlang=746
+Withings=751
+Python=756
+Performing Arts=1126
+Pattern Recognition=1131
+Operations=1136
+Network Architecture=1141
+Network Design=1146
+Demola=1151
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
