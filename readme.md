@@ -22,6 +22,7 @@
 - [Books](#books)
 - [Fundraising](#fundraising)
 - [Influencers/People](#influencerspeople)
+- [Conferences](#conferences)
 - [Events](#events)
 - [Communities/Chats](#communitieschats)
 
