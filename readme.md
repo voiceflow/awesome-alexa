@@ -64,6 +64,7 @@
 * [Alexa Skills Store (UK)](https://www.amazon.co.uk/alexa-skills/)
 * [Alexa Skills Store (Germany)](https://www.amazon.de/alexa-skills/)
 * [Alexa Skills Store (India)](https://amazon.in/skills)
+* [Alexa Skills Store (Brazil)](https://www.amazon.com.br/b/?ie=UTF8&node=17938238011&ref_=nav_em_T1_0_4_4_4__nav_sk_gno)
 
 ### Skill development
 
