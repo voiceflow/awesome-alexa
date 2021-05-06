@@ -142,6 +142,7 @@
 
 #### Monitoring
 * [Bespoken](http://bespoken.io) - Bespoken provides monitoring and testing tools for Alexa skills (and Google Actions). Our platform keeps track to make sure your skill is working correctly, and alerts you when it is not.
+* [VoiceLabs.com - Testing and Monitoring Alexa skills](https://voicelabs.com) - VoiceLabs is a free testing and monitoring platform for Alexa skills and Google Actions.
 
 ### Agencies
 * [XAPPmedia, Inc.](https://xappmedia.com/develop-custom-alexa-skills/) - XAPPmedia is a pioneer in interactive voice experiences. We design, develop, host and manage custom Alexa skills for leading brands and publishers.
@@ -181,6 +182,7 @@
 * [Blink](https://blinkux.com/alexa) - Blink is a leading user experience consulting firm specializing in the research, design, and development of digital customer experiences.
 * [AKQA](http://www.akqa.com/work/jamie-oliver/amazon-alexa-skill/) - AKQA uses the imaginative application of art and science to create beautiful ideas, products, and services.
 * [Accenture](http://www.accenture.com/) - Accenture is a global professional services company partnering with the Fortune 500 driving innovation to help deliver transformational outcomes for a demanding new digital world.
+* [Project.pro](https://project.pro/) - Project.pro is the Amazon Alexa Skill Development agency that creates voice-driven applications and interactions for companies that want to get involved with the exciting, globally developing world of voice.
 
 ### Books
 * [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414)
