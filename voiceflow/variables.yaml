@@ -1,0 +1,5 @@
+version: vfa/v1
+kind: VariableList
+metadata:
+  key: variables
+spec: {}

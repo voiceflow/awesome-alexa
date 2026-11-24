@@ -1,0 +1,7 @@
+version: vfa/v1
+kind: AgentRouting
+metadata:
+  key: routing
+spec:
+  playbooks: []
+  workflows: []

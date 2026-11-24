@@ -1,0 +1,16 @@
+{
+  "name": "voiceflow-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "vfa:documents": "node ./scripts/vfa-documents.mjs",
+    "vfa:export": "node ./scripts/vfa-export.mjs",
+    "vfa:apply": "node ./scripts/vfa-apply.mjs"
+  },
+  "dependencies": {
+    "yaml": "2.9.0"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}

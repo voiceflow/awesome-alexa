@@ -1,0 +1,38 @@
+version: vfa/v1
+kind: AgentBehavior
+metadata:
+  key: behavior
+spec:
+  llm:
+    priorityProcessing: false
+    defaults:
+      model: voiceflow-core-4.2
+      maxTokens: 10000
+      temperature: 0.3
+      reasoningEffort: null
+  voice:
+    stt:
+      provider: deepgram
+      model: flux
+      locale: en
+      partialWaitMS: 1000
+      silenceWaitMS: 10
+      punctuationWaitMS: 200
+      interruptionWaitWords: 1
+      EOTTimeout: 500
+    tts:
+      provider: elevenlabs
+      model: eleven_v4_turbo
+      voice: ZF6FPAbjXT4488VcRRnw
+      useCustomVoice: false
+      settings:
+        speed: 1
+        style: 0
+        stability: 0.5
+        speaker_boost: false
+        similarity_boost: 0.75
+    failureMessage: We’re sorry, but the call cannot be completed at this time.
+      Please try again later.
+    hasCallRecording: true
+    audioSync: false
+    hasProviderCallRecording: true

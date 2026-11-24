@@ -1,0 +1,54 @@
+name: VFA apply
+
+# Each environment syncs to its own branch; vfa:apply skips a branch voiceflow.yaml doesn't map
+on:
+  push:
+    branches: ['**']
+    paths: ['voiceflow/**', '!voiceflow/.vfa/**']
+
+# Each apply diffs against the lock the previous one stored on the server, so runs must not overlap
+concurrency:
+  group: vfa-apply-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  VFA_DIR: voiceflow
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # A push that deletes the directory still matches the path filter, and the commit that connects the repository
+      # lands before anyone adds the VFA_TOKEN secret
+      - name: Check for voiceflow directory and key
+        id: check
+        env:
+          VFA_TOKEN: ${{ secrets.VFA_TOKEN }}
+        run: |
+          if [ -z "$VFA_TOKEN" ]; then
+            echo "::notice::Add the VFA_TOKEN repository secret to sync pushes to Voiceflow."
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=$([ -d "$VFA_DIR" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.check.outputs.exists == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - if: steps.check.outputs.exists == 'true'
+        run: yarn install
+
+      # The server diffs the documents against its stored lock and creates no environment when nothing differs
+      - name: Apply
+        if: steps.check.outputs.exists == 'true'
+        env:
+          VFA_TOKEN: ${{ secrets.VFA_TOKEN }}
+        run: |
+          yarn vfa:apply --in "$VFA_DIR" --name "VFA apply ${GITHUB_REF_NAME} ${GITHUB_SHA::7}" --commit "$GITHUB_SHA"
