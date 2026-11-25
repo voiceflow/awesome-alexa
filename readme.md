@@ -22,6 +22,7 @@
 - [Books](#books)
 - [Fundraising](#fundraising)
 - [Influencers/People](#influencerspeople)
+- [Conferences](#conferences)
 - [Events](#events)
 - [Communities/Chats](#communitieschats)
 
@@ -137,6 +138,7 @@
 
 #### Utilities
 * [Audio converter (Storyline)](https://getstoryline.com/audio-converter) - This simple tool helps you to convert your MP3s into the right format for Amazon Alexa skills. It works for Google Actions too.
+* [Skill Code Generator](https://s3.amazonaws.com/webappvui/skillcode/v2/index.html) - A tool to help generate Lambda Boilerplate code in ASK SDK v2 with options of Variety greeting, Display Template Response 
 * [Audio converter (Jovo)](https://www.jovo.tech/audio-converter) - Convert MP3 files for using in Amazon Alexa Skills
 * [Tophonetics](https://tophonetics.com) - A free International Phonetic Alphabet (IPA) phonetics generator for your SSML in Amazon Alexa Skills
 
@@ -181,6 +183,7 @@
 * [Blink](https://blinkux.com/alexa) - Blink is a leading user experience consulting firm specializing in the research, design, and development of digital customer experiences.
 * [AKQA](http://www.akqa.com/work/jamie-oliver/amazon-alexa-skill/) - AKQA uses the imaginative application of art and science to create beautiful ideas, products, and services.
 * [Accenture](http://www.accenture.com/) - Accenture is a global professional services company partnering with the Fortune 500 driving innovation to help deliver transformational outcomes for a demanding new digital world.
+* [Agrahayah Technologies](https://www.agrahyah.com/) - Agrahyah Technologies, awarded as Agency of the year, 2018 by Amazon Alexa, is a Mumbai based software company with in-house audio and text content creation capabilities. Agrahyah is a full service voice agency with capabilities to design, develop and create content audio including podcasts and shows. 
 
 ### Books
 * [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414)
@@ -227,6 +230,8 @@
 
 * **Shoaib Rayeen** - Shoaib Rayeen is an Alexa Student Influencer. He is a Software Development Engineer. He used to teach about building and designing Alexa Skills to beginners and intermediate developers and used to run Delhi Amazon Alexa Meetup Group along with another Alexa Student Influencer. Connect with him on [Linkedin](https://www.linkedin.com/in/shoaibrayeen/), [Twitter](https://twitter.com/Shoaibrayeen), [Facebook](https://www.facebook.com/Shoaibrayeenofficial), [Github](https://github.com/shoaibrayeen)
 
+* **Nikhil Mulchandani** - Nikhil Mulchandani, an Alexa Developer, Alexa Hackathon Runner Up, Alexa Student Influencer  from [Sarvajanik College of Engineering & technology, Surat, India] (https://scet.ac.in), conducts workshops on Alexa Skills Development in and nearby Surat, Gujarat, works on VoiceFirst Projects and loves to talk about it. [LinkedIn](https://linkedin.com/in/nikhil-mulchandani-a6a317126/) [Twitter](https://twitter.com/iamnikhil98) [Github](https://github.com/nikmul19)[Wordpress](https://gyaanideveloper.wordpress.com)
+
 ### Events
 * [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
 * [Amazon Alexa, Google Home & other Voice Interfaces - Berlin](https://www.meetup.com/Berlin-Voice-Interfaces/)
@@ -234,8 +239,15 @@
 * [Sydney Amazon Alexa Meetup](https://www.meetup.com/Sydney-Amazon-Alexa-Meetup/)
 * [Amazon Alexa Meetup, Delhi, India](http://meetup.com/Amazon-Alexa-Meetup-NCR/)
 
+### Conferences
+
+* [Voice Summit](https://www.voicesummit.ai/)- VOICE Summit sponsored by Amazon Alexa is the world's largest voice-tech conference
+* [Alexa VoxCon](http://amazonalexavoxcon.com) - Amazon Alexa's Conference on All Things Voice.
+
 ### Communities/chats
 * [Unofficial Alexa Slack](http://www.alexaslack.com) -  A group of chat channels focusing on Amazon Alexa enabled hardware and software. Developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology are welcome.
+
+* [Alexa Developers Slack-- India Community ](Alexa.design/indiaslackinvite) - A group of chat channels focusing on Amazon Alexa Skill development in India. From student developers to Alexa Evangelists at Amazon, all are here to help you. 
 * [Storyline community](https://www.facebook.com/groups/storylinecommunity/) - Facebook community of Alexa Developers built around the Storyline, tool for creating voice apps without coding.
 
 ### License
